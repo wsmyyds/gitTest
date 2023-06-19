@@ -1,0 +1,26 @@
+# Default ignored files
+/demo/shelf/
+/demo/workspace.xml
+# Datasource local storage ignored files
+/demo/dataSources/
+/demo/dataSources.local.xml
+# Zeppelin ignored files
+/demo/ZeppelinRemoteNotebooks/
+# Editor-based HTTP Client requests
+/demo/httpRequests/
+
+/.idea
+
+# 例:
+# 忽略所有生成的文件
+/build/
+# 忽略特定文件
+config.ini
+# 忽略特定文件夹
+logs/
+# 忽略特定文件类型
+*.log
+# 忽略文件夹下所有扩展名为txt的文件
+folder/*.txt
+# 忽略以.tmp结尾的文件
+*.tmp
